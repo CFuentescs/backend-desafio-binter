@@ -1,1 +1,1 @@
-# ☕️ Proyecto Backend SpringBoot - Desafio Banco internacional (Word Counter)
+# ☕️ Proyecto Backend SpringBoot - (Word Counter)
